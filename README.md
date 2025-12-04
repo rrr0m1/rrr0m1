@@ -29,7 +29,6 @@ I love transforming ideas into projects, exploring new technologies, and writing
 
 ## 📫 Connect with Me
 - GitHub: [rrr0m1](https://github.com/rrr0m1)  
-- Discord: `xrzn.cc`
 - Website: [rr0m1.dev](https://rr0m1.dev)  
-
+- Discord: `xrzn.cc`
 ---
