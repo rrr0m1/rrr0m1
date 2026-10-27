@@ -1,54 +1,90 @@
-# 👋 Hello, I’m rr0m1
+<div align="center">
 
-## 🎯 About Me  
-I am a **16-year-old full-stack developer** based in Switzerland.  
-I’m passionate about building **Discord bots**, **modern web apps**, and **automation tools**.  
-I love turning ideas into real projects, exploring new technologies, and writing clean, efficient, and maintainable code.
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+rr0m1;Full-Stack+Developer;Switzerland+%F0%9F%87%A8%F0%9F%87%AD;Discord+Bots+%7C+Web+Apps+%7C+Automation" alt="Typing SVG" />
+
+<!-- Profile visitor badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=rr0m1&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/rr0m1?style=for-the-badge&color=38B2AC&labelColor=black)
+
+</div>
+
+Full-stack developer based in Switzerland, focused on Discord bots, modern web apps, and automation tools. I enjoy turning ideas into real projects and writing clean, efficient, maintainable code.
 
 ---
 
-## ⚙️ Skills
+## 🛠️ Tech Stack
 
-### 🖥️ Languages & Technologies
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### **Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-#### **Databases**
+**Database**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-#### **Environments / Tools**
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Tools & Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🧑‍💻 Outside of Coding  
-- 🎿 **Freeride Skiing** — I enjoy the mountains, adventure, and pushing my limits.  
-- 🏐 **Volleyball** — Sports teach teamwork, communication, and discipline.  
+## 📊 GitHub Stats
 
-They help me stay balanced, motivated, and ready for any challenge.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rr0m1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr0m1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rr0m1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rr0m1&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rr0m1&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+> Cards update automatically — nothing here needs manual editing.
 
 ---
 
-## 💬 Contact Me  
-- 📧 Email: **pro@rr0m1.dev**  
-- 🌐 Website / Portfolio: **https://rr0m1.dev**  
-- 🔗 GitHub: **https://github.com/rr0m1**
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rr0m1/rr0m1/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<sup>Generated by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — see setup note below.</sup>
 
 ---
 
-## 🚀 Projects & Goals  
-I’m always open to collaborations, innovative ideas, or opportunities to contribute to interesting projects.  
-Feel free to reach out if you want to build something together! 🎯
+## 🧑‍💻 Outside of Coding
+
+- 🎿 **Freeride skiing** — mountains, adventure, pushing my limits
+- 🏐 **Volleyball** — teamwork, communication, discipline
+
+---
+
+## 📬 Contact
+
+<p align="left">
+  <a href="mailto:pro@rr0m1.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rr0m1.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/rr0m1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 Projects & Goals
+
+Open to collaborations, new ideas, and opportunities to contribute to interesting projects. Feel free to reach out if you'd like to build something together.
+
+<div align="center">
+
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=rr0m1.rr0m1)
+
+</div>
