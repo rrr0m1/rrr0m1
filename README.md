@@ -48,7 +48,6 @@ Full-stack developer based in Switzerland, focused on Discord bots, modern web a
   <img src="https://github-profile-trophy.vercel.app/?username=rrr0m1&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-> Cards update automatically — nothing here needs manual editing.
 
 ---
 
